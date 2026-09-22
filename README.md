@@ -1,4 +1,4 @@
-## hello my name is tacca 一名视觉传达专业的学生，目前在学习3D和编程
+## (づ｡◕‿‿◕｡)づ  Keep learning and keep creating!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jduan258-hash/Jduan258-hash/output/github-snake-dark.svg" />
@@ -8,14 +8,10 @@
 
 #**jduan258-hash/Jduan258-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- (｡•̀ᴗ-)✧ I’m currently learning and improving my coding skills
+- (つ≧▽≦)つ I enjoy exploring interesting projects and creative ideas
+- (｡･ω･｡)ﾉ♡ I’m always curious about how things work
+- (๑•̀ㅂ•́)و✧ I’m still growing, so every small step counts
+- (´｡• ᵕ •｡`) ♡ My goal is to keep learning and make something meaningful
