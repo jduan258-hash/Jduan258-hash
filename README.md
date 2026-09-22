@@ -1,4 +1,5 @@
 ## hello my name is tacca 
+一名视觉传达专业的学生，目前在学习3D和编程
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jduan258-hash/Jduan258-hash/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jduan258-hash/Jduan258-hash/output/github-snake.svg" />
