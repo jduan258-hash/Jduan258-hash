@@ -6,8 +6,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg" />
 </picture>
 
-#**jduan258-hash/Jduan258-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 - (｡•̀ᴗ-)✧ I’m currently learning and improving my coding skills
