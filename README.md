@@ -1,4 +1,12 @@
+<p align="center">
+  <img width="88" height="31" src="<img width="88" height="31" alt="gif-009 (1)" src="https://github.com/user-attachments/assets/e52d4b65-e357-4fa5-a536-e2b322336bfc" />
+  <img width="88" height="31" src="<img width="88" height="31" alt="gif-011 (1)" src="https://github.com/user-attachments/assets/4d9e2852-9f9c-422c-ad13-8c9e12d8f24a" />
+  <img width="88" height="31" src="<img width="88" height="31" alt="gif-059 (1)" src="https://github.com/user-attachments/assets/fd9e279f-8e7f-4269-8c31-31adb67ae18e" />
+  <img width="88" height="31" src="GIF地址5" />
+</p>
+
 ## (づ｡◕‿‿◕｡)づ  Keep learning and keep creating!
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jduan258-hash/Jduan258-hash/output/github-snake-dark.svg" />
