@@ -18,7 +18,8 @@
 
 <h2>
   (づ｡◕‿‿◕｡)づ Keep learning and keep creating!
-  <img width="99" height="55" alt="lps3" src="https://github.com/user-attachments/assets/a63bc425-53f7-4aa7-8657-2e0b49952194" />
+  <img width="97" height="100" alt="gif-025" src="https://github.com/user-attachments/assets/3a61f133-3aa8-442e-bb03-27043179f566" />
+
 
 </h2>
 
@@ -30,7 +31,8 @@
 </picture>
 
 <p align="left">
-  <img width="256" height="48" alt="gif-015" src="https://github.com/user-attachments/assets/4444a8a1-fd93-4217-8593-fa3bdbc6c1d4" />
+  <img width="370" height="82" alt="gif-013" src="https://github.com/user-attachments/assets/cd22bd1e-a065-40ec-928b-70a6f7a455bf" />
+
 
 </p>
 
