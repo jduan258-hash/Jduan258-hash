@@ -16,8 +16,11 @@
 </p>
 
 
+<h2>
+  (づ｡◕‿‿◕｡)づ Keep learning and keep creating!
+  <img width="99" height="55" alt="lps3" src="https://github.com/user-attachments/assets/a63bc425-53f7-4aa7-8657-2e0b49952194" />
 
-## (づ｡◕‿‿◕｡)づ  Keep learning and keep creating!
+</h2>
 
 
 <picture>
@@ -26,6 +29,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Jduan258-hash/Jduan258-hash/output/github-snake.svg">
 </picture>
 
+<p align="left">
+  <img width="256" height="48" alt="gif-015" src="https://github.com/user-attachments/assets/4444a8a1-fd93-4217-8593-fa3bdbc6c1d4" />
+
+</p>
 
 - (｡•̀ᴗ-)✧ I’m currently learning and improving my coding skills
 - (つ≧▽≦)つ I enjoy exploring interesting projects and creative ideas
