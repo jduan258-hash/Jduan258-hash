@@ -18,7 +18,7 @@
 
 <h2>
   (づ｡◕‿‿◕｡)づ Keep learning and keep creating!
-  <img width="97" height="100" alt="gif-025" src="https://github.com/user-attachments/assets/3a61f133-3aa8-442e-bb03-27043179f566" />
+  <img src="https://raw.githubusercontent.com/Jduan258-hash/Jduan258-hash/main/gif-025.gif" />
 
 
 </h2>
@@ -31,8 +31,7 @@
 </picture>
 
 <p align="left">
-  <img width="370" height="82" alt="gif-013" src="https://github.com/user-attachments/assets/cd22bd1e-a065-40ec-928b-70a6f7a455bf" />
-
+  <img src="https://raw.githubusercontent.com/Jduan258-hash/Jduan258-hash/main/gif-013.gif" />
 
 </p>
 
